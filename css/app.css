@@ -12,6 +12,20 @@ div#hero {
     padding-top: 16%;
     font-family: 'Roboto Condensed', sans-serif;
 }
-#menu{
-    text-align: right;
+
+div#gender-products {
+    height: 15%;
+    padding-top: 2%;
+    background-color: #CCCC99;
+
+}
+fieldset#button {
+    padding-left: 15%;
+}
+
+.button{
+   float:right;
+   background-color:  brown;
+
+
 }
