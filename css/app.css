@@ -11,3 +11,7 @@ div#hero {
     text-align: center;
     padding-top: 16%;
     font-family: 'Roboto Condensed', sans-serif;
+}
+#menu{
+    text-align: right;
+}
