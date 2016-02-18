@@ -17,7 +17,6 @@ div#gender-products {
     height: 15%;
     padding-top: 2%;
     background-color: #CCCC99;
-
 }
 fieldset#button {
     padding-left: 15%;
@@ -26,6 +25,20 @@ fieldset#button {
 .button{
    float:right;
    background-color:  brown;
-
-
 }
+
+div#men section{
+    height: 13%;
+}
+p {
+    padding-top: 15%;
+    padding-left: 35%;
+    font-size: 22px;
+}
+hr {
+    padding-top: 2%;
+    border-width: 4px;
+}
+img.thumbnail {
+    height: 17em;
+    width:17em;
