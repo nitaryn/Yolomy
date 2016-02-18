@@ -42,3 +42,7 @@ hr {
 img.thumbnail {
     height: 16em;
     width:16em;
+}
+div#women{
+    padding-right: 12%;
+}
