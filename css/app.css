@@ -25,10 +25,15 @@ div#hero {
     margin-bottom: 3%
 }
 
-div#gender-products {
-    height: 15%;
-    padding-top: 2%;
-    background-color: #CCCC99;
+
+
+.row .choices{
+    margin: auto;
+    padding: 2% 0% 1% 7%;
+    background: rgb(198, 191, 165) none repeat scroll 0% 0%;
+    font-size: 2em;
+    text-transform: uppercase;
+    clear: both;
 }
 fieldset#button {
     padding-left: 15%;
