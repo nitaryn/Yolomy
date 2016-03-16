@@ -32,14 +32,20 @@ div#hero {
     text-transform: uppercase;
     clear: both;
 }
-fieldset#button {
-    padding-left: 15%;
+.button{
+	background: #661A00 none repeat scroll 0% 0%;
+	color: #FFF;
+	font-size: .5em;
+}
+.button:hover{
+	background: #661A00 none repeat scroll 0% 0%;
+	color: #FFF;
+	font-size: .5em;
+}
+.button a{
+	color: #fff;
 }
 
-.button{
-   float:right;
-   background-color:  brown;
-}
 
 div#men section{
     height: 13%;
