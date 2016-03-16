@@ -17,6 +17,13 @@ div#hero {
 	margin-top: 10% auto;
 	padding-bottom: 2%;
 }
+.paragraph p{
+	font-size: 1.2em;
+}
+.paragraph h2{
+	font-size: 3.5em;
+    margin-bottom: 3%
+}
 
 div#gender-products {
     height: 15%;
