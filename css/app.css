@@ -32,11 +32,7 @@ div#hero {
     text-transform: uppercase;
     clear: both;
 }
-.button{
-	background: #661A00 none repeat scroll 0% 0%;
-	color: #FFF;
-	font-size: .5em;
-}
+
 .button:hover{
 	background: #661A00 none repeat scroll 0% 0%;
 	color: #FFF;
