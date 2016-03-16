@@ -11,6 +11,11 @@ div#hero {
     text-align: center;
     padding-top: 16%;
     font-family: 'Roboto Condensed', sans-serif;
+    }
+.mouse{
+	text-align: center;
+	margin-top: 10% auto;
+	padding-bottom: 2%;
 }
 
 div#gender-products {
@@ -46,6 +51,7 @@ img.thumbnail {
 div#women{
     padding-right: 12%;
 }
+
 
 
 div#about {
