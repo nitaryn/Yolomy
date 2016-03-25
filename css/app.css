@@ -35,7 +35,7 @@ div#hero {
 
 .button:hover{
 	background: #661A00 none repeat scroll 0% 0%;
-	color: #FFF;
+	color:blue;
 	font-size: .5em;
 }
 .button a{
