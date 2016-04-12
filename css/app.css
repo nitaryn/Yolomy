@@ -72,3 +72,12 @@ div#about {
     text-align: center;
 
 }
+/*PRODUCTS*/
+.row .choices{
+    margin: auto;
+    padding: 2% 0% 1% 7%;
+    background: rgb(198, 191, 165) none repeat scroll 0% 0%;
+    font-size: 2em;
+    text-transform: uppercase;
+    clear: both;
+}
