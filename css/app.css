@@ -160,3 +160,12 @@ legend{
 	width: 20%;
 	float: left;
 }
+/*TWITTER*/
+.twitter{
+	min-height: 10vh;
+    background: rgb(83,81,84);
+    text-align: center;
+    padding-top: 1%;
+    color: #fff;
+    font-size: 1.2em;
+}
