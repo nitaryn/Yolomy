@@ -108,3 +108,9 @@ margin-right: 8%;
 height: 76vh;
 background: #F5F5F7;
 }
+article li:hover{
+	border: 0.5em solid #A99B76;
+}
+article li img{
+    margin: 23% 20%;
+}
