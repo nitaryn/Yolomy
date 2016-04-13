@@ -114,3 +114,10 @@ article li:hover{
 article li img{
     margin: 23% 20%;
 }
+li h4{
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	text-transform: uppercase;
+	font-size: 1em;
+}
