@@ -62,16 +62,13 @@ img.thumbnail {
 div#women{
     padding-right: 12%;
 }
-
-
-
 div#about {
     height: 70%;
     background-image: url(../img/backgrounds/about.jpg);
     background-size: cover;
     text-align: center;
-
 }
+
 /*PRODUCTS*/
 .row .choices{
     margin: auto;
@@ -135,4 +132,8 @@ bottom: 0px;
 margin-bottom: 3%;
 right: 7%;
 font-size: 1em;
+}
+#about{
+	max-height: 60vh;
+	background-size: 100% 100%
 }
