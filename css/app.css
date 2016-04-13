@@ -81,3 +81,7 @@ div#about {
     text-transform: uppercase;
     clear: both;
 }
+article{
+	margin-top: 10%;
+	padding-left: 7%;
+}
