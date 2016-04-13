@@ -85,3 +85,26 @@ article{
 	margin-top: 10%;
 	padding-left: 7%;
 }
+article h6{
+	color: rgb(69, 69, 69);
+	font-weight: bold;
+	margin-top: 13%;
+	margin-left: 24%;
+}
+article hr{
+	width: 100%;
+}
+article ul{
+	margin: 8% 0% 48%;
+	width: 113%;
+}
+article li{
+	float: left;
+list-style: inside none none;
+position: relative;
+border: 0.5em solid #F5F5F7;
+width: 25%;
+margin-right: 8%;
+height: 76vh;
+background: #F5F5F7;
+}
