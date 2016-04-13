@@ -169,3 +169,43 @@ legend{
     color: #fff;
     font-size: 1.2em;
 }
+/*FOOTER*/
+.footer{
+	background: rgb(65,65,65);
+}
+
+.left{
+	padding: 5% 0% 0% 5%;
+	color: #fff;
+}
+.center{
+	text-align: center;
+	color: #fff;
+	padding-top: 5%;
+	font-size: 1.4em;
+}
+.center ul{
+	width: 100%;
+	margin: 0% 20%;
+	padding-left: 21%;
+	}
+.center ul li{
+	float: left;
+	list-style: outside none none;
+	width: 20%;
+	height: 10vh;
+}
+
+.right{
+	margin-top: 4%;
+	color: rgb(255, 255, 255);
+	padding: 5%;
+	font-weight: 100;
+}
+.copy{
+	text-align: center;
+	clear: both;
+	color: #fff;
+	margin-top: 9%;
+	font-size: .6em;
+}
