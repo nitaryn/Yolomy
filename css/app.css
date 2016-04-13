@@ -152,3 +152,11 @@ legend{
 	font-size: .8em;
 	font-weight: bold;
 }
+#about hr{
+	width: 30%;
+	float: left;
+}
+#about h5{
+	width: 20%;
+	float: left;
+}
