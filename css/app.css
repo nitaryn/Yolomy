@@ -137,3 +137,12 @@ font-size: 1em;
 	max-height: 60vh;
 	background-size: 100% 100%
 }
+fieldset{
+	width: 58%;
+	margin: 5% auto;
+	font-size: 1.2em;
+	color: #FFF;
+	border: 0.1em solid #A99B76;
+	text-align: center;
+	padding: 2%;
+}
